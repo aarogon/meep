@@ -82,7 +82,7 @@ If you look at Maxwell's equations, then $d\mathbf{P}/dt$ plays exactly the same
 absorption rate $\sim \frac{d\mathbf{P}}{dt} \cdot \mathbf{E}$
 
 </center>
-ω
+
 Meep can keep track of this energy for the Lorentzian polarizability terms but not for the conductivity terms. For gain, this gives the amount of energy expended in amplifying the field.
 
 Conductivity and Complex ε
